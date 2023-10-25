@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ceoandpoles.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="muelto0000" x="10" y="10" width="2289" height="507"/>
+	<SubTexture name="muelto0001" x="10" y="527" width="2289" height="507"/>
+	<SubTexture name="muelto0002" x="10" y="1044" width="2289" height="507"/>
+	<SubTexture name="muelto0003" x="10" y="1561" width="2289" height="507"/>
+</TextureAtlas>

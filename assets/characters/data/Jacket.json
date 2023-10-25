@@ -1,0 +1,76 @@
+{
+	"charOffset": [
+		0,
+		350
+	],
+	"anims": [
+		{
+			"offsets": [
+				14,
+				530
+			],
+			"fps": 24,
+			"prefix": "Idle",
+			"looped": false,
+			"name": "idle",
+			"indices": null
+		},
+		{
+			"offsets": [
+				-1,
+				507
+			],
+			"fps": 24,
+			"prefix": "Down",
+			"looped": false,
+			"name": "singDOWN",
+			"indices": null
+		},
+		{
+			"offsets": [
+				-7,
+				570
+			],
+			"fps": 24,
+			"prefix": "Up",
+			"looped": false,
+			"name": "singUP",
+			"indices": null
+		},
+		{
+			"offsets": [
+				39,
+				536
+			],
+			"fps": 24,
+			"prefix": "Left",
+			"looped": false,
+			"name": "singLEFT",
+			"indices": null
+		},
+		{
+			"offsets": [
+				-10,
+				535
+			],
+			"fps": 24,
+			"prefix": "Right",
+			"looped": false,
+			"name": "singRIGHT",
+			"indices": null
+		}
+	],
+	"singDur": 4,
+	"camOffset": [
+		271,
+		-576
+	],
+	"spritesheet": "Jacket",
+	"scale": 1,
+	"flipX": false,
+	"iconName": "Jacket",
+	"antialiasing": true,
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFF31B0D1"
+}

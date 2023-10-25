@@ -1,0 +1,111 @@
+{
+	"charOffset": [
+		100,
+		100
+	],
+	"anims": [
+		{
+			"offsets": [
+				13,
+				530
+			],
+			"fps": 24,
+			"prefix": "Idle",
+			"looped": true,
+			"name": "idle"
+		},
+		{
+			"prefix": "Down0",
+			"offsets": [
+				84,
+				535
+			],
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "Up0",
+			"offsets": [
+				10,
+				624
+			],
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "Left0",
+			"offsets": [
+				49,
+				526
+			],
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "Right0",
+			"offsets": [
+				132,
+				518
+			],
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "DownMiss",
+			"offsets": [
+				67,
+				492
+			],
+			"fps": 24,
+			"name": "singDOWNmiss",
+			"looped": false
+		},
+		{
+			"prefix": "UpMiss",
+			"offsets": [
+				4,
+				567
+			],
+			"fps": 24,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"prefix": "LeftMiss",
+			"offsets": [
+				60,
+				526
+			],
+			"fps": 24,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "RightMiss",
+			"offsets": [
+				117,
+				522
+			],
+			"fps": 24,
+			"name": "singRIGHTmiss",
+			"looped": false
+		}
+	],
+	"singDur": 4,
+	"camOffset": [
+		0,
+		-600
+	],
+	"spritesheet": "BikerTwo",
+	"scale": 1,
+	"flipX": false,
+	"iconName": "bf",
+	"antialiasing": true,
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFF46C9C1"
+}

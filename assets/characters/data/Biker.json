@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				530
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				504
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				549
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				528
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				524
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				495
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				570
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				527
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				526
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Biker",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "biker",
+	"flip_x": true,
+	"healthbar_colors": [
+		70,
+		201,
+		193
+	],
+	"camera_position": [
+		80,
+		-590
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

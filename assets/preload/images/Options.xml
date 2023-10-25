@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AccuracySystem0000" x="20" y="20" width="419" height="36"/>
+	<SubTexture name="Arrows0000" x="459" y="20" width="186" height="35"/>
+	<SubTexture name="Basic0000" x="665" y="20" width="115" height="25"/>
+	<SubTexture name="CalibrateOffset0000" x="161" y="84" width="420" height="41"/>
+	<SubTexture name="Check0000" x="800" y="20" width="54" height="44"/>
+	<SubTexture name="Controls0000" x="601" y="84" width="240" height="44"/>
+	<SubTexture name="Downscroll0000" x="20" y="148" width="386" height="58"/>
+	<SubTexture name="GhostTapping0000" x="426" y="148" width="408" height="52"/>
+	<SubTexture name="Judgements0000" x="20" y="226" width="295" height="39"/>
+	<SubTexture name="Keys0000" x="335" y="226" width="434" height="294"/>
+	<SubTexture name="Middlescroll0000" x="20" y="540" width="400" height="48"/>
+	<SubTexture name="ResetKey0000" x="440" y="540" width="352" height="46"/>
+	<SubTexture name="SM0000" x="874" y="20" width="67" height="27"/>
+	<SubTexture name="SelectBox0000" x="812" y="540" width="152" height="152"/>
+	<SubTexture name="Wife30000" x="20" y="84" width="121" height="25"/>
+</TextureAtlas>

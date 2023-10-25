@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MainMenu.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Exit0000" x="20" y="20" width="496" height="69"/>
+	<SubTexture name="Options0000" x="536" y="20" width="385" height="65"/>
+	<SubTexture name="Prankcall0000" x="20" y="109" width="531" height="63"/>
+	<SubTexture name="SelectedExit0000" x="20" y="192" width="490" height="56"/>
+	<SubTexture name="SelectedOptions0000" x="530" y="192" width="387" height="54"/>
+	<SubTexture name="SelectedPrankcall0000" x="20" y="268" width="535" height="59"/>
+</TextureAtlas>

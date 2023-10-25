@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AccuracySystem0000" x="20" y="20" width="419" height="36"/>
+	<SubTexture name="Andromeda0000" x="1169" y="84" width="164" height="22"/>
+	<SubTexture name="Arrows0000" x="459" y="20" width="186" height="35"/>
+	<SubTexture name="Arrows20000" x="1353" y="84" width="242" height="35"/>
+	<SubTexture name="Baby0000" x="1615" y="84" width="76" height="21"/>
+	<SubTexture name="Basic0000" x="665" y="20" width="115" height="25"/>
+	<SubTexture name="CalibrateOffset0000" x="1102" y="20" width="420" height="41"/>
+	<SubTexture name="Check0000" x="800" y="20" width="54" height="44"/>
+	<SubTexture name="Controls0000" x="1542" y="20" width="240" height="44"/>
+	<SubTexture name="Downscroll0000" x="20" y="84" width="386" height="58"/>
+	<SubTexture name="Forever0000" x="1711" y="84" width="123" height="21"/>
+	<SubTexture name="GhostTapping0000" x="426" y="84" width="408" height="52"/>
+	<SubTexture name="ITG0000" x="1854" y="84" width="54" height="22"/>
+	<SubTexture name="Judge Four0000" x="20" y="162" width="165" height="22"/>
+	<SubTexture name="Judge Six0000" x="205" y="162" width="145" height="22"/>
+	<SubTexture name="Judgements0000" x="854" y="84" width="295" height="39"/>
+	<SubTexture name="JUSTICE0000" x="370" y="162" width="130" height="21"/>
+	<SubTexture name="Kade Engine0000" x="520" y="162" width="179" height="22"/>
+	<SubTexture name="Keys0000" x="1178" y="162" width="434" height="294"/>
+	<SubTexture name="Middlescroll0000" x="20" y="476" width="400" height="48"/>
+	<SubTexture name="Quaver0000" x="719" y="162" width="105" height="22"/>
+	<SubTexture name="ResetKey0000" x="440" y="476" width="352" height="46"/>
+	<SubTexture name="SM0000" x="874" y="20" width="67" height="27"/>
+	<SubTexture name="SelectArrow0000" x="812" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0001" x="866" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0002" x="920" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0003" x="974" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0004" x="1028" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0005" x="1082" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0006" x="1136" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0007" x="1190" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0008" x="1244" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0009" x="1298" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0010" x="1352" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0011" x="1406" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0012" x="1460" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0013" x="1514" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0014" x="1568" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0015" x="1622" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0016" x="1676" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0017" x="1730" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0018" x="1784" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0019" x="1838" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0020" x="1892" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0021" x="1946" y="476" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0022" x="20" y="544" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0023" x="74" y="544" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0024" x="128" y="544" width="34" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0025" x="182" y="544" width="33" height="38" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0026" x="235" y="544" width="33" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0027" x="288" y="544" width="33" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0028" x="341" y="544" width="34" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0029" x="395" y="544" width="34" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0030" x="449" y="544" width="34" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0031" x="503" y="544" width="34" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0032" x="557" y="544" width="34" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0033" x="611" y="544" width="34" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0034" x="665" y="544" width="34" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0035" x="719" y="544" width="34" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0036" x="773" y="544" width="34" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0037" x="827" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0038" x="882" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0039" x="937" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0040" x="992" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0041" x="1047" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0042" x="1102" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0043" x="1157" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0044" x="1212" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0045" x="1267" y="544" width="35" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0046" x="1322" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0047" x="1378" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0048" x="1434" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0049" x="1490" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0050" x="1490" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0051" x="1546" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0052" x="1602" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0053" x="1658" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0054" x="1714" y="544" width="36" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0055" x="1770" y="544" width="37" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0056" x="1770" y="544" width="37" height="37" frameX="0" frameY="0" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0057" x="1827" y="544" width="37" height="38"/>
+	<SubTexture name="SelectArrow0058" x="1827" y="544" width="37" height="38"/>
+	<SubTexture name="SelectArrow0059" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0060" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0061" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0062" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0063" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0064" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0065" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0066" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0067" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0068" x="1884" y="544" width="36" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0069" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0070" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0071" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0072" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0073" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0074" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0075" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0076" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0077" x="1940" y="544" width="35" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0078" x="20" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0079" x="20" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0080" x="20" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0081" x="74" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0082" x="74" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0083" x="74" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0084" x="74" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0085" x="74" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0086" x="74" y="602" width="34" height="36" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0087" x="128" y="602" width="33" height="35" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0088" x="128" y="602" width="33" height="35" frameX="-1" frameY="-1" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0089" x="128" y="602" width="33" height="35" frameX="-1" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0090" x="128" y="602" width="33" height="35" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0091" x="128" y="602" width="33" height="35" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0092" x="128" y="602" width="33" height="35" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0093" x="128" y="602" width="33" height="35" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0094" x="128" y="602" width="33" height="35" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0095" x="128" y="602" width="33" height="35" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0096" x="181" y="602" width="31" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0097" x="181" y="602" width="31" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0098" x="181" y="602" width="31" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0099" x="181" y="602" width="31" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0100" x="181" y="602" width="31" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0101" x="181" y="602" width="31" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0102" x="232" y="602" width="30" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0103" x="232" y="602" width="30" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0104" x="232" y="602" width="30" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0105" x="232" y="602" width="30" height="34" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0106" x="282" y="602" width="30" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0107" x="282" y="602" width="30" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0108" x="282" y="602" width="30" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0109" x="282" y="602" width="30" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0110" x="282" y="602" width="30" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0111" x="282" y="602" width="30" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0112" x="282" y="602" width="30" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0113" x="332" y="602" width="29" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0114" x="332" y="602" width="29" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0115" x="381" y="602" width="29" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0116" x="381" y="602" width="29" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0117" x="381" y="602" width="29" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0118" x="381" y="602" width="29" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectArrow0119" x="430" y="602" width="28" height="33" frameX="-2" frameY="-2" frameWidth="37" frameHeight="38"/>
+	<SubTexture name="SelectBox0000" x="478" y="602" width="152" height="152"/>
+	<SubTexture name="Vanilla0000" x="844" y="162" width="112" height="21"/>
+	<SubTexture name="Vanilla-like0000" x="976" y="162" width="182" height="21"/>
+	<SubTexture name="Wife30000" x="961" y="20" width="121" height="25"/>
+</TextureAtlas>
